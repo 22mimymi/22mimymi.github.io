@@ -1,11 +1,3 @@
- ---
-date: 2021-3-3
-title:  README
-comments: true
-categories: blog
-tags: [jekyll, github, markdown]
-
----
 
 ## 프로젝트 주제​
 
